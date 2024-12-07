@@ -1,0 +1,17 @@
+{
+  "name": "bolierplate-x",
+  "version": "1.0.0",
+  "description": "Simple boilerplate for students",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@html-eslint/parser": "^0.30.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-html": "^8.1.2",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "3.4.2"
+  }
+}
